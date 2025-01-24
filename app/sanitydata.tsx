@@ -21,6 +21,8 @@ export default async function SanityData() {
   */
   return (
    <div>
+	   <h1>Just Novice  </h1>
+	     < Image src={Hk} alt ='hero-image' width={200} height={200} />  
 <h1>sanity data </h1>
 <ul>
 {
