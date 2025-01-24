@@ -36,11 +36,31 @@ export default async function SanityData() {
 
 
    }
+
+<h2>Product_name</h2>
    <h2>{product.name}</h2>
+      <h2>Product_category</h2>
    <h2>{product.category}</h2>
+    
+    <h2>Poduct_price</h2>
+    <h2>{product.price}</h2>
+	 <h2>product_description</h2>
+	   <h2>{product.description}</h2>
+	      <h2>product_discountPercentage</h2>
+	     <h2>{product.discountPercentage}</h2>
    <img src={product.imagePath} alt={product.name} width="200" />
    <img src={product.image} alt={product.name} width="200" />
-   
+
+
+  
+
+
+
+
+
+
+
+    
    </>
   
  
