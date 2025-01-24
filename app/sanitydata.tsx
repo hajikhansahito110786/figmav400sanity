@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { client} from "@/sanity/lib/client"
+import Hk from "./hkpic.jpg"
 //import { urlFor } from "@/sanity/lib/image";
 //&&[Category=='Chair']`
 export default async function SanityData() {
